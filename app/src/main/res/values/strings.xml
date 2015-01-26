@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Paint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="color_select">Seleccionar Color</string>
+    <string name="ok">Ok</string>
+    <string name="guardar">Guardado con exito</string>
+    <string name="noguardar">Error al guardar</string>
+
+</resources>
